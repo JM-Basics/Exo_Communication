@@ -1,4 +1,4 @@
-#import i2cComm
+import i2cComm
 
 lettre = "a"
 matrice = [ [0,1,1,1,0],
